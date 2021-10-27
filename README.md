@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m I'm James, a front end developer. I currently work on the Alexa Blueprints team at Amazon.
+I'm James, a front end developer. I currently work on the Alexa Blueprints team at Amazon.
 
 I love diving into anything UI/UX related and am always looking for fun projects to work on.
 
